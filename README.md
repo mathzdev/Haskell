@@ -13,3 +13,5 @@ That's all folks!
 1. Código **helloworld**, simples e com modelo de comentário em haskell.
 
 2. Código **input**, onde o código gera input para popular variável e exibir em tela.
+
+3. Código **operacoes**, as quatro operações de uma maneira simplificada.
