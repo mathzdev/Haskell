@@ -15,3 +15,5 @@ That's all folks!
 2. Código **input**, onde o código gera input para popular variável e exibir em tela.
 
 3. Código **operacoes**, as quatro operações de uma maneira simplificada.
+
+4. Código **calculadora**, utilizando case e as 4 operações básicas fiz uma calculadora que recebe de input a opção da operação e dois números a serem calculados
