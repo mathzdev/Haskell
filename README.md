@@ -16,4 +16,6 @@ That's all folks!
 
 3. Código **operacoes**, as quatro operações de uma maneira simplificada.
 
-4. Código **calculadora**, utilizando case e as 4 operações básicas fiz uma calculadora que recebe de input a opção da operação e dois números a serem calculados
+4. Código **calculadora**, utilizando case e as 4 operações básicas fiz uma calculadora que recebe de input a opção da operação e dois números a serem calculados.
+
+5. Código **funcoes**, utilizando funcoes para realizar as 4 operações matemáticas, e também uma função mais complexa com as 4 dentro de uma operação só.
