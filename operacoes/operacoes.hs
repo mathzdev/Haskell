@@ -16,6 +16,6 @@ main = do
 	print (11 * 11)
 	putStrLn ""
 	-- Divisão
-	putStr "200 / 12 = "
+	putStr "200 / 10 = "
 	print (200 / 10)
 	putStrLn ""
