@@ -14,6 +14,8 @@
 
 6. Código **quicksort**, consiste em algorítimo para ordenação. Ordenamos nele [20, 50, 40, 10, 30, 80, 60, 90, 70] para [10,20,30,40,50,60,70,80,90], código lê um txt input, e escreve um txt output.
 
+7. Código **lacos**, consiste em dois algorítimos bastante usados nas linguagens de programação: while e foreach. Implementação do algorítimo e uso de ambos.
+
 Haskell - https://www.haskell.org/
 =======
 Operações básicas em Haskell
