@@ -19,3 +19,5 @@ That's all folks!
 4. Código **calculadora**, utilizando case e as 4 operações básicas fiz uma calculadora que recebe de input a opção da operação e dois números a serem calculados.
 
 5. Código **funcoes**, utilizando funcoes para realizar as 4 operações matemáticas, e também uma função mais complexa com as 4 dentro de uma operação só.
+
+6. Código **quicksort**, consiste em algorítimo para ordenação. Ordenamos nele [20, 50, 40, 10, 30, 80, 60, 90, 70] para [10,20,30,40,50,60,70,80,90], código lê um txt input, e escreve um txt output.
