@@ -17,6 +17,7 @@
 Haskell - https://www.haskell.org/
 =======
 Operações básicas em Haskell
+http://pt.wikipedia.org/wiki/Haskell_%28linguagem_de_programa%C3%A7%C3%A3o%29
 
 Com pouco conteúdo da linguagem em português, irei disponibilizar alguns códigos em haskell à medida do possível, de um hello world até algo mais complexo assim que eu tiver tempo. Alguns códigos que postarei serão de minha autoria, outros serão cópias em inglês traduzidas para explicar as coisas. Não perderei tempo colocando créditos meus mas se de onde eu copiar pedirem créditos colocarei.
 
